@@ -1,0 +1,2 @@
+# .vimrc
+.vimrcの設定
