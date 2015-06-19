@@ -39,6 +39,9 @@ manpath=(
 #----------------------------------------
 # environment path settings
 #----------------------------------------
+export M2_HOME=~/apache-maven-3.3.3/
+export PATH=${M2_HOME}/bin:${PATH}
+export PATH=$PATH:$JAVA_HOME/bin
 
 export PYTHONSTARTUP=~/.pythonstartup
 
